@@ -1,0 +1,2 @@
+# stockOne
+Gestor de Inventarios
